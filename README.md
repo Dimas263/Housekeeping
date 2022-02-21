@@ -1,6 +1,9 @@
 # Housekeeping
 Make report when automatic delete file from a directory when schedule with task scheduler or cron job
 
+# Input
+<img src="img_1.png" alt="alt text" width="600"/>
+
 # Output
 <img src="img.png" alt="alt text" width="600"/>
 
