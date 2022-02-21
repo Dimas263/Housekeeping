@@ -1,0 +1,32 @@
+       =====================================================================================================================================
+
+       # Directory : C:\Users\dwipu\IdeaProjects\housekeeping\directory1
+
+       Summary          File location and filename                                                             Size           Time(HHmmss)    
+
+       Delete Files   : test.docx                                                                              0 kb           025407          
+       Delete Files   : test.jpeg                                                                              0 kb           025407          
+       Delete Files   : test.pdf                                                                               0 kb           025407          
+
+       _____________________________________________________________________________________________________________________________________
+
+       Delete Files  : 3       Keep Files   : 0       Total Items    : 3
+
+       =====================================================================================================================================
+
+       # Directory : C:\Users\dwipu\IdeaProjects\housekeeping\directory2
+
+       Summary          File location and filename                                                             Size           Time(HHmmss)    
+
+
+       _____________________________________________________________________________________________________________________________________
+
+       Delete Files  : 0       Keep Files   : 0       Total Items    : 0
+
+       =====================================================================================================================================
+
+       # Directory : C:\Users\dwipu\IdeaProjects\housekeeping\directory3
+
+       -------------------------------------------       
+       !      Sorry, directory is not found      !       
+       -------------------------------------------       
