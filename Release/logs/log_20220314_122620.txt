@@ -1,0 +1,133 @@
+       =====================================================================================================================================
+
+       # Directory : C:\Windows\Temp
+
+       Summary          File location and filename                                                             Size           Time(HHmmss)    
+
+       Keep Files     : adobegc.log                                                                            6100 kb        122620          
+       Keep Files     : DESKTOP-B8OM35D-20220313-1243.log                                                      212 kb         122620          
+       Keep Files     : DESKTOP-B8OM35D-20220314-0939.log                                                      48 kb          122620          
+       Keep Files     : DESKTOP-B8OM35D-20220314-0940.log                                                      66 kb          122620          
+       Keep Files     : DESKTOP-B8OM35D-20220314-0940a.log                                                     284 kb         122620          
+       Keep Files     : MpCmdRun.log                                                                           9 kb           122620          
+       Keep Files     : MpSigStub.log                                                                          7 kb           122620          
+       Keep Files     : msedge_installer.log                                                                   15 kb          122620          
+       Keep Files     : officeclicktorun.exe_streamserver(202203131242591128).log                              0 kb           122620          
+       Keep Files     : wct8EF3.tmp                                                                            52 kb          122620          
+       Keep Files     : wct98C7.tmp                                                                            0 kb           122620          
+
+       _____________________________________________________________________________________________________________________________________
+
+       Delete Files  : 0       Keep Files   : 11       Total Items    : 11
+
+       =====================================================================================================================================
+
+       # Directory : C:\Users\dwipu\AppData\Local\Temp
+
+       Summary          File location and filename                                                             Size           Time(HHmmss)    
+
+       Keep Files     : .ses                                                                                   0 kb           122620          
+       Keep Files     : 12dbf837-1d3a-4833-85a7-ef49e41a735c.tmp                                               0 kb           122620          
+       Keep Files     : 2a179ee9-0c00-4f8f-810b-e9a415eec573.tmp                                               97 kb          122620          
+       Keep Files     : 3bd80201-d218-4226-a10f-757cb3454b9e.tmp                                               0 kb           122620          
+       Keep Files     : 3e563fd1-f91b-44c4-bdfb-6377a79b2043.tmp                                               192 kb         122620          
+       Keep Files     : 4a189c72-341c-4d52-99c0-e4cd8b313121.tmp                                               1694 kb        122620          
+       Keep Files     : 58e7d28c-3bb8-47f6-a3ca-55348070dfb7.tmp                                               1568 kb        122620          
+       Keep Files     : 7d684dd3-6a33-49f3-b78e-3154b35c732b.tmp                                               2301 kb        122620          
+       Keep Files     : 99e8ed03-8def-4aa1-bde3-758b9f7f7208.tmp                                               2943 kb        122620          
+       Keep Files     : adobegc.log                                                                            58 kb          122620          
+       Keep Files     : amt3.log                                                                               115 kb         122620          
+       Keep Files     : bdf0001d-2d9f-41da-8328-2f72ad19ad57.tmp                                               223 kb         122620          
+       Keep Files     : d7f8e337-50b1-476e-8533-f5ed11e65390.tmp                                               25 kb          122620          
+       Keep Files     : fc9e8e49-4bdf-405a-b51a-74fa89d7af1e.tmp                                               94 kb          122620          
+       Keep Files     : gangster2 (2rev)2_9924_autosave.blend                                                  130627 kb      122620          
+       Keep Files     : NGLClient_default.log                                                                  1 kb           122620          
+       Keep Files     : oobelib.log                                                                            39 kb          122620          
+       Keep Files     : oobelib_a12016                                                                         3 kb           122620          
+       Keep Files     : PDApp.log                                                                              474 kb         122620          
+       Keep Files     : swtag.log                                                                              0 kb           122620          
+       Keep Files     : wct6FE2.tmp                                                                            52 kb          122620          
+       Keep Files     : wct83BD.tmp                                                                            0 kb           122620          
+       Keep Files     : wct9189.tmp                                                                            52 kb          122620          
+       Keep Files     : wsu6C6B.tmp                                                                            3 kb           122620          
+       Keep Files     : wsu6D66.tmp                                                                            1 kb           122620          
+       Keep Files     : wsu891D.tmp                                                                            9 kb           122620          
+       Keep Files     : wsu89CA.tmp                                                                            2 kb           122620          
+       Keep Files     : wsu8A77.tmp                                                                            5 kb           122620          
+       Keep Files     : {2E7605DD-72C9-42AA-AC2C-046A80EE72E5} - OProcSessId.dat                               0 kb           122620          
+
+       _____________________________________________________________________________________________________________________________________
+
+       Delete Files  : 0       Keep Files   : 29       Total Items    : 29
+
+       =====================================================================================================================================
+
+       # Directory : C:\Windows\Prefetch
+
+       Summary          File location and filename                                                             Size           Time(HHmmss)    
+
+       Keep Files     : ACROBAT.EXE-241192A7.pf                                                                17 kb          122620          
+       Keep Files     : ACROCEF.EXE-DBD4DE4D.pf                                                                21 kb          122620          
+       Keep Files     : ACROCEF.EXE-DBD4DE4E.pf                                                                12 kb          122620          
+       Keep Files     : ACROCEF.EXE-DBD4DE4F.pf                                                                6 kb           122620          
+       Keep Files     : ACRODIST.EXE-634B1B78.pf                                                               17 kb          122620          
+       Keep Files     : ACROTRAY.EXE-9534F974.pf                                                               2 kb           122620          
+       Keep Files     : ADOBE GENUINE LAUNCHER.EXE-03857340.pf                                                 4 kb           122620          
+       Keep Files     : ADOBECOLLABSYNC.EXE-E91D7DB4.pf                                                        11 kb          122620          
+       Keep Files     : ADOBEGCCLIENT.EXE-7FB368FC.pf                                                          20 kb          122620          
+       Keep Files     : ADOBE_LICHELPER.EXE-70F0FD2B.pf                                                        5 kb           122620          
+       Keep Files     : ADOBE_LICUTIL.EXE-6BFA85F9.pf                                                          17 kb          122620          
+       Keep Files     : AgAppLaunch.db                                                                         326 kb         122620          
+       Keep Files     : AgCx_SC5.db                                                                            212 kb         122620          
+       Keep Files     : AgGlFaultHistory.db                                                                    1120 kb        122620          
+       Keep Files     : AgGlFgAppHistory.db                                                                    1790 kb        122620          
+       Keep Files     : AgGlGlobalHistory.db                                                                   5512 kb        122620          
+       Keep Files     : AgGlUAD_P_S-1-5-21-3260077639-126332598-1273739277-1001.db                             154 kb         122620          
+       Keep Files     : AgGlUAD_S-1-5-21-3260077639-126332598-1273739277-1001.db                               497 kb         122620          
+       Keep Files     : AGMSERVICE.EXE-BF7883BE.pf                                                             5 kb           122620          
+       Keep Files     : AgRobust.db                                                                            650 kb         122620          
+       Keep Files     : AGSSERVICE.EXE-002E2A8C.pf                                                             5 kb           122620          
+       Keep Files     : AM_DELTA_PATCH_1.359.1844.0.E-06B900D2.pf                                              1 kb           122620          
+       Keep Files     : APPLICATIONFRAMEHOST.EXE-CCEEF759.pf                                                   14 kb          122620          
+       Keep Files     : AUDIODG.EXE-BDFD3029.pf                                                                10 kb          122620          
+       Keep Files     : BACKGROUNDTASKHOST.EXE-145A3777.pf                                                     7 kb           122620          
+       Keep Files     : BACKGROUNDTASKHOST.EXE-A89D33B8.pf                                                     22 kb          122620          
+       Keep Files     : BLENDER-LAUNCHER.EXE-D25BAF86.pf                                                       3 kb           122620          
+       Keep Files     : BLENDER.EXE-763309CB.pf                                                                1 kb           122620          
+       Keep Files     : CCLEANER.EXE-D4D76A60.pf                                                               6 kb           122620          
+       Keep Files     : CCLEANER64.EXE-779BD542.pf                                                             19 kb          122620          
+       Keep Files     : CHROME.EXE-5A1054AF.pf                                                                 71 kb          122620          
+       Keep Files     : CHROME.EXE-5A1054B0.pf                                                                 38 kb          122620          
+       Keep Files     : CHROME.EXE-5A1054B1.pf                                                                 31 kb          122620          
+       Keep Files     : CHROME.EXE-5A1054B6.pf                                                                 4 kb           122620          
+       Keep Files     : CHROME.EXE-5A1054B7.pf                                                                 16 kb          122620          
+       Keep Files     : CLEANMGR.EXE-E3C5E89D.pf                                                               23 kb          122620          
+       Keep Files     : CMD.EXE-4A81B364.pf                                                                    3 kb           122620          
+       Keep Files     : CODE.EXE-277D07D4.pf                                                                   21 kb          122620          
+       Keep Files     : CODE.EXE-277D07D5.pf                                                                   8 kb           122620          
+       Keep Files     : CODE.EXE-277D07D6.pf                                                                   14 kb          122620          
+       Keep Files     : CODE.EXE-277D07DB.pf                                                                   5 kb           122620          
+       Keep Files     : CODE.EXE-277D07DC.pf                                                                   7 kb           122620          
+       Keep Files     : COMPATTELRUNNER.EXE-DB97728F.pf                                                        2 kb           122620          
+       Keep Files     : COMPPKGSRV.EXE-21DBED9C.pf                                                             3 kb           122620          
+       Keep Files     : CONHOST.EXE-1F3E9D7E.pf                                                                7 kb           122620          
+       Keep Files     : CONSENT.EXE-531BD9EA.pf                                                                54 kb          122620          
+       Keep Files     : CSRSS.EXE-3FE41F7E.pf                                                                  5 kb           122620          
+       Keep Files     : CTFMON.EXE-9450846B.pf                                                                 6 kb           122620          
+       Keep Files     : DATAEXCHANGEHOST.EXE-BE987727.pf                                                       14 kb          122620          
+       Keep Files     : DEFRAG.EXE-588F90AD.pf                                                                 3 kb           122620          
+       Keep Files     : DISMHOST.EXE-96EA743A.pf                                                               4 kb           122620          
+       Keep Files     : DLLHOST.EXE-28A8211F.pf                                                                8 kb           122620          
+       Keep Files     : DLLHOST.EXE-4B51DD01.pf                                                                8 kb           122620          
+       Keep Files     : DLLHOST.EXE-504C779A.pf                                                                4 kb           122620          
+       Keep Files     : DLLHOST.EXE-570206E5.pf                                                                6 kb           122620          
+       Keep Files     : DLLHOST.EXE-5E46FA0D.pf                                                                7 kb           122620          
+       Keep Files     : DLLHOST.EXE-61F58501.pf                                                                7 kb           122620          
+       Keep Files     : DLLHOST.EXE-6A473D35.pf                                                                12 kb          122620          
+       Keep Files     : DLLHOST.EXE-A5CF8F40.pf                                                                6 kb           122620          
+       Keep Files     : DLLHOST.EXE-A8DE6D5B.pf                                                                5 kb           122620          
+       Keep Files     : DLLHOST.EXE-B6166308.pf                                                                7 kb           122620          
+       Keep Files     : DLLHOST.EXE-FC981FFE.pf                                                                3 kb           122620          
+       Keep Files     : DRIVERQUERY.EXE-2A25F8AA.pf                                                            8 kb           122620          
+       Keep Files     : DWM.EXE-6FFD3DA8.pf                                                                    19 kb          122620          
+       Keep Files     : ESRV.EXE-6F8080AA.pf                                    
